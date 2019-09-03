@@ -4,10 +4,108 @@ function setup() {
 }
 
 function draw() {
+fill(255);
+ellipse(1500, height/2, 700, 700);
+fill(0);
+ellipse(1500, height/2, 675, 675);
+fill(255);
+ellipse(0, height/2, 700, 700);
+fill(0);
+ellipse(0, height/2, 675, 675);
+
+fill(255);
+ellipse(1500, height/2, 600, 600);
+fill(0);
+ellipse(1500, height/2, 575, 575);
+fill(255);
+ellipse(0, height/2, 600, 600);
+fill(0);
+ellipse(0, height/2, 575, 575);
+
+fill(255);
+ellipse(1500, height/2, 500, 500);
+fill(0);
+ellipse(1500, height/2, 475, 475);
+fill(255);
+ellipse(0, height/2, 500, 500);
+fill(0);
+ellipse(0, height/2, 475, 475);
+
+fill(255);
+ellipse(1500, height/2, 400, 400);
+fill(0);
+ellipse(1500, height/2, 375, 375);
+fill(255);
+ellipse(0, height/2, 400, 400);
+fill(0);
+ellipse(0, height/2, 375, 375);
+
+fill(255);
+ellipse(1500, height/2, 300, 300);
+fill(0);
+ellipse(1500, height/2, 275, 275);
+fill(255);
+ellipse(0, height/2, 300, 300);
+fill(0);
+ellipse(0, height/2, 275, 275);
+
+fill(255);
+ellipse(1500, height/2, 200, 200);
+fill(0);
+ellipse(1500, height/2, 175, 175);
+fill(255);
+ellipse(0, height/2, 200, 200);
+fill(0);
+ellipse(0, height/2, 175, 175);
+
+fill(255);
+ellipse(1500, height/2, 100, 100)
+fill(255);
+ellipse(0, height/2, 100, 100)
+
+fill(255);
+ellipse(width/2, 700, 700, 700)
+fill(0);
+ellipse(width/2, 700, 600, 600)
+
+fill(255);
+ellipse(width/2, 700, 500, 500)
+fill(0);
+ellipse(width/2, 700, 400, 400)
+
+fill(255);
+ellipse(width/2, 700, 300, 300)
+fill(0);
+ellipse(width/2, 700, 200, 200)
+
+fill(255);
+ellipse(width/2, 700, 100, 100)
+
+fill(255);
+ellipse(width/2, 0, 700, 700)
+fill(0);
+ellipse(width/2, 0, 600, 600)
+
+fill(255);
+ellipse(width/2, 0, 500, 500)
+fill(0);
+ellipse(width/2, 0, 400, 400)
+
+fill(255);
+ellipse(width/2, 0, 300, 300)
+fill(0);
+ellipse(width/2, 0, 200, 200)
+
+fill(255);
+ellipse(width/2, 0, 100, 100)
+
+fill(0);
+ellipse(width/2, height/2, 625, 625); 
  fill(255);
 ellipse(width/2, height/2, 500, 500);
 fill(0);
 ellipse(width/2, height/2, 300, 300); 
+
 fill(255);
 ellipse(275, 175, 200, 200);  
 fill(0);
